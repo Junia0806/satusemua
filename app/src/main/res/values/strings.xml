@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Lokasiku!</string>
+    <string name="app_name">Pengenalan GPS</string>
+    <string name="latText">Latitude :</string>
+    <string name="lonText">Longitude :</string>
+</resources>
